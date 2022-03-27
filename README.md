@@ -12,4 +12,4 @@ Dikkat etmemiz gereken noktalardan biri tablolarımızı oluştururken IF NOT EX
 sqLiteDatabase.execSQL("CREATE TABLE IF NOT EXISTS yonetmenler  (\n" +
                 "yonetmen_id INTEGER PRIMARY KEY AUTOINCREMENT,\n" +
                 "yonetmen_ad TEXT\n" +
-                ");");
+                ");"); 
